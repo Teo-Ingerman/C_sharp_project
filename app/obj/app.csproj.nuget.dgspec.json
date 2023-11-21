@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\teo.ingerman\\OneDrive - Academedia\\Documents\\proggraming\\C_sharp_project\\app\\app.csproj": {}
+    "C:\\Users\\Teo\\Documents\\programming_files\\C_sharp_project\\app\\app.csproj": {}
   },
   "projects": {
-    "c:\\Users\\teo.ingerman\\OneDrive - Academedia\\Documents\\proggraming\\C_sharp_project\\app\\app.csproj": {
+    "C:\\Users\\Teo\\Documents\\programming_files\\C_sharp_project\\app\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\teo.ingerman\\OneDrive - Academedia\\Documents\\proggraming\\C_sharp_project\\app\\app.csproj",
+        "projectUniqueName": "C:\\Users\\Teo\\Documents\\programming_files\\C_sharp_project\\app\\app.csproj",
         "projectName": "app",
-        "projectPath": "c:\\Users\\teo.ingerman\\OneDrive - Academedia\\Documents\\proggraming\\C_sharp_project\\app\\app.csproj",
-        "packagesPath": "C:\\Users\\teo.ingerman\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\teo.ingerman\\OneDrive - Academedia\\Documents\\proggraming\\C_sharp_project\\app\\obj\\",
+        "projectPath": "C:\\Users\\Teo\\Documents\\programming_files\\C_sharp_project\\app\\app.csproj",
+        "packagesPath": "C:\\Users\\Teo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Teo\\Documents\\programming_files\\C_sharp_project\\app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\teo.ingerman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Teo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
